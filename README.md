@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="100" src="https://img.icons8.com/stickers/100/wow-button.png"/> </br>
+<img align="center" height="100" src="https://img.icons8.com/stickers/100/wow-button.png"/> </br>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
