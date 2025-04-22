@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="100" src="https://img.icons8.com/stickers/100/wow-button.png"/> 
+<img align="right" height="100" src="https://img.icons8.com/stickers/100/wow-button.png"/> 
 
 ###
 
