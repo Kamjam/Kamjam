@@ -1,13 +1,3 @@
-<h2 align="center">Kamjam ✨</h2>
-
-###
-
-<div align="center">
-  <img height="100" src="https://img.icons8.com/stickers/100/wow-button.png"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
